@@ -79,6 +79,8 @@ A Go and xterm.js project with a virtual filesystem and rate-limited network dia
 
 I write about systems, network security, books, and quieter thoughts on [TheWittySwan](https://thewittyswan.space/home/). I also enjoy making technical learning feel welcoming through [GolangForAll](https://github.com/DhawalShankar/golang4all).
 
+> *Mukarrar hai, mukammal hogi woh nayaab manzil — fateh se faasle, ab hum rakh nahi sakte.*
+
 <details>
   <summary>Contribution trail</summary>
   <p align="center">
