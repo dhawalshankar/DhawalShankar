@@ -15,7 +15,7 @@
 
 ## I build software for real workflows
 
-I’m Dhawal, a backend software engineer, B.Tech student at JIIT, Noida, and an incoming Teach For India Fellow. I work mostly with Go, Node.js, and Python, building APIs, real-time products, developer tools, and the infrastructure around them.
+I’m Dhawal, a backend software engineer, B.Tech student at [JIIT](https://www.jiit.ac.in/), Noida, and an incoming [Teach For India Fellow](https://www.teachforindia.org/). I work mostly with Go, Node.js, and Python, building APIs, real-time products, developer tools, and the infrastructure around them.
 
 I’m especially interested in the details that make software dependable: clear service boundaries, useful observability, careful access control, and safe execution environments.
 
@@ -59,8 +59,10 @@ A Go and xterm.js project with a virtual filesystem and rate-limited network dia
 
 ## Experience
 
-- **Backend Developer Intern · Codingo Forge** — Built Node.js/Express APIs for local-business storefront workflows, helped Dockerize services, and implemented role-based access with Clerk. *(Apr–Jun 2026)*
-- **IT Operations Support Intern · Cape Comorin Children School** — Shipped school operations tools across Next.js, Flask, and FastAPI services, including searchable digitized records and staff-reviewed notices. *(Jun–Jul 2026)*
+| Organization | Role and impact |
+|---|---|
+| Codingo Forge | **Backend Developer Intern** · *Apr–Jun 2026*<br>Built Node.js/Express APIs for local-business storefront workflows, helped Dockerize services, and implemented role-based access with Clerk. |
+| [Cape Comorin Children School](https://capecomorinschool.com/) | **IT Operations Support Intern** · *Jun–Jul 2026*<br>Shipped school operations tools across Next.js, Flask, and FastAPI services, including searchable digitized records and staff-reviewed notices. |
 
 ## A few milestones
 
@@ -84,10 +86,21 @@ A Go and xterm.js project with a virtual filesystem and rate-limited network dia
 My mission is to make education more accessible in every Indian language through technology:
 
 - 🦢 [TheWittySwan](https://thewittyswan.space/home/) is where I share writing on systems, security, books, and the ideas behind what I build.
-- 🌍 [VartaLang](https://vartalang.in) brings language exchange and learning together; its technology is now powered by Sarvam to help make that mission possible.
+- 🌍 [VartaLang](https://vartalang.in) brings language exchange and learning together; its technology is now powered by [Sarvam AI](https://www.sarvam.ai/) to help make that mission possible.
 - 💻 [GolangForAll](https://golangforall.in) makes learning Go a shared, community-powered journey.
 
 With the **GDG Cloud Noida** community, I’m co-organizing **DevVerse 2026**.
+
+## Side quests & favorites
+
+| Off-duty favorite | My pick |
+|---|---|
+| 🎬 Web series | [Pritam and Pedro](https://www.youtube.com/results?search_query=Pritam+and+Pedro+web+series) |
+| 📚 Book | [*Anandamath*](https://en.wikipedia.org/wiki/Anandamath) by [Bankim Chandra Chattopadhyay](https://en.wikipedia.org/wiki/Bankim_Chandra_Chatterjee) |
+| 📍 City (for now) | [Kanpur](https://en.wikipedia.org/wiki/Kanpur) |
+| 🌧️ Season | [Rainy season / monsoon](https://en.wikipedia.org/wiki/Monsoon) |
+| 🍉 Fruit | [Watermelon](https://en.wikipedia.org/wiki/Watermelon) |
+| ✍️ Hobby | [Poetry](https://en.wikipedia.org/wiki/Poetry) |
 
 > *Mukarrar hai, mukammal hogi woh nayaab manzil — fateh se faasle, ab hum rakh nahi sakte.*
 
