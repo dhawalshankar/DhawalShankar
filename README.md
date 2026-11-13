@@ -70,14 +70,24 @@ A Go and xterm.js project with a virtual filesystem and rate-limited network dia
 
 ## Tools I reach for
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=go,nodejs,python,ts,postgres,docker,aws,gcp&perline=8" alt="Go, Node.js, Python, TypeScript, PostgreSQL, Docker, AWS, and Google Cloud" />
+</p>
+
 **Languages:** Go · JavaScript · TypeScript · Python · Java · SQL<br>
 **Backend:** Node.js · Express · FastAPI · Flask · REST · WebSockets<br>
 **Data & infrastructure:** PostgreSQL · MongoDB · Docker · Linux · AWS · GCP<br>
 **Auth & integrations:** OAuth 2.0 · JWT · Firebase · Clerk · Razorpay · Cloudinary
 
-## Beyond the terminal
+## Community & mission
 
-I write about systems, network security, books, and quieter thoughts on [TheWittySwan](https://thewittyswan.space/home/). I also enjoy making technical learning feel welcoming through [GolangForAll](https://github.com/DhawalShankar/golang4all).
+My mission is to make technology more welcoming and useful by bringing people together around ideas, language, and learning:
+
+- 🦢 [TheWittySwan](https://thewittyswan.space/home/) is where I share writing on systems, security, books, and the ideas behind what I build.
+- 🌍 [VartaLang](https://vartalang.in) uses language exchange and accessible learning to help people connect across languages.
+- 💻 [GolangForAll](https://golangforall.in) makes learning Go a shared, community-powered journey.
+
+With the **GDG Cloud Noida** community, I’m co-organizing **DevVerse 2026**.
 
 > *Mukarrar hai, mukammal hogi woh nayaab manzil — fateh se faasle, ab hum rakh nahi sakte.*
 
