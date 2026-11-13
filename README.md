@@ -10,6 +10,7 @@
   <a href="https://thewittyswan.space">Website</a> ·
   <a href="https://www.linkedin.com/in/dhawalshukl">LinkedIn</a> ·
   <a href="https://leetcode.com/u/dhawalshankar">LeetCode</a> ·
+  <a href="https://dhawalshankar.github.io/DhawalShankar/tic-tac-toe/">Play Tic-Tac-Toe</a> ·
   <a href="mailto:dhawalmannu@gmail.com">Email</a>
 </p>
 
