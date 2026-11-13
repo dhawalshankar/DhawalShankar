@@ -6,6 +6,7 @@ on:
       - main
     paths:
       - "games/tic-tac-toe/**"
+      - "swan.png"
       - ".github/workflows/deploy-pages.yml"
   workflow_dispatch:
 
@@ -29,6 +30,8 @@ jobs:
         uses: actions/checkout@v4
       - name: Configure GitHub Pages
         uses: actions/configure-pages@v5
+      - name: Add the profile swan to the game
+        run: cp swan.png games/tic-tac-toe/swan.png
       - name: Upload game site
         uses: actions/upload-pages-artifact@v3
         with:
