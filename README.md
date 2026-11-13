@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/profile-banner.svg" alt="Dhawal Shukla — backend engineer building systems and developer tools" width="100%" />
+  <img src="swan.png" alt="The Witty Swan pixel-art logo" width="180" />
 </p>
 
 <p align="center">
