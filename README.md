@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="swan.png" alt="The Witty Swan pixel-art logo" width="180" />
+  <img src="assets/profile-banner.png" alt="Dhawal Shukla, founder of VartaLang and The Witty Swan" width="100%" />
 </p>
 
 <p align="center">
