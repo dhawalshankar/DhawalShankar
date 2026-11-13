@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 300" role="img" aria-labelledby="title description">
+  <title id="title">My world in four slices</title>
+  <desc id="description">A decorative pie chart with equal slices for language, building, community, and poetry. The slices are not statistics.</desc>
+  <rect x="1" y="1" width="998" height="298" rx="22" fill="#fffcf8" stroke="#f0ddc8" stroke-width="2"/>
+
+  <g stroke="#fffcf8" stroke-width="3">
+    <path d="M155 150 155 43A107 107 0 0 1 262 150Z" fill="#f28a2a"/>
+    <path d="M155 150 262 150A107 107 0 0 1 155 257Z" fill="#f7b76b"/>
+    <path d="M155 150 155 257A107 107 0 0 1 48 150Z" fill="#d65a20"/>
+    <path d="M155 150 48 150A107 107 0 0 1 155 43Z" fill="#eaa66c"/>
+  </g>
+  <circle cx="155" cy="150" r="107" fill="none" stroke="#d65a20" stroke-opacity="0.35" stroke-width="2"/>
+
+  <g font-family="Segoe UI, Arial, sans-serif">
+    <text x="330" y="66" fill="#bd571c" font-size="13" font-weight="700" letter-spacing="2.2">
+      MY WORLD, IN FOUR SLICES
+    </text>
+    <text x="330" y="91" fill="#766252" font-size="14">
+      A personal compass, not a stats report.
+    </text>
+
+    <circle cx="339" cy="126" r="7" fill="#f28a2a"/>
+    <text x="358" y="131" fill="#392b20" font-size="13" font-weight="700" letter-spacing="0.7">LANGUAGE</text>
+    <text x="488" y="131" fill="#766252" font-size="14">VartaLang · learning across languages</text>
+
+    <circle cx="339" cy="169" r="7" fill="#f7b76b"/>
+    <text x="358" y="174" fill="#392b20" font-size="13" font-weight="700" letter-spacing="0.7">BUILD</text>
+    <text x="488" y="174" fill="#766252" font-size="14">backend systems &amp; developer tools</text>
+
+    <circle cx="339" cy="212" r="7" fill="#d65a20"/>
+    <text x="358" y="217" fill="#392b20" font-size="13" font-weight="700" letter-spacing="0.7">COMMUNITY</text>
+    <text x="488" y="217" fill="#766252" font-size="14">GolangForAll · GDG Cloud Noida</text>
+
+    <circle cx="339" cy="255" r="7" fill="#eaa66c"/>
+    <text x="358" y="260" fill="#392b20" font-size="13" font-weight="700" letter-spacing="0.7">POETRY</text>
+    <text x="488" y="260" fill="#766252" font-size="14">TheWittySwan · words and wonder</text>
+  </g>
+</svg>

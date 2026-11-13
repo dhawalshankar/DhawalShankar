@@ -91,6 +91,12 @@ My mission is to make education more accessible in every Indian language through
 
 With the **GDG Cloud Noida** community, I’m co-organizing **DevVerse 2026**.
 
+## My world, in four slices
+
+<p align="center">
+  <img src="assets/focus-pie.svg" alt="Decorative equal-slice pie chart for language, building, community, and poetry; not statistics" width="100%" />
+</p>
+
 ## Side quests & favorites
 
 | Off-duty favorite | My pick |
