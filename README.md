@@ -15,7 +15,7 @@
 
 ## I build software for real workflows
 
-I’m Dhawal, a backend software engineer and B.Tech student at JIIT, Noida. I work mostly with Go, Node.js, and Python, building APIs, real-time products, developer tools, and the infrastructure around them.
+I’m Dhawal, a backend software engineer, B.Tech student at JIIT, Noida, and an incoming Teach For India Fellow. I work mostly with Go, Node.js, and Python, building APIs, real-time products, developer tools, and the infrastructure around them.
 
 I’m especially interested in the details that make software dependable: clear service boundaries, useful observability, careful access control, and safe execution environments.
 
@@ -81,10 +81,10 @@ A Go and xterm.js project with a virtual filesystem and rate-limited network dia
 
 ## Community & mission
 
-My mission is to make technology more welcoming and useful by bringing people together around ideas, language, and learning:
+My mission is to make education more accessible in every Indian language through technology:
 
 - 🦢 [TheWittySwan](https://thewittyswan.space/home/) is where I share writing on systems, security, books, and the ideas behind what I build.
-- 🌍 [VartaLang](https://vartalang.in) uses language exchange and accessible learning to help people connect across languages.
+- 🌍 [VartaLang](https://vartalang.in) brings language exchange and learning together; its technology is now powered by Sarvam to help make that mission possible.
 - 💻 [GolangForAll](https://golangforall.in) makes learning Go a shared, community-powered journey.
 
 With the **GDG Cloud Noida** community, I’m co-organizing **DevVerse 2026**.
