@@ -1,127 +1,90 @@
-# 🙏 Namaskaram, I'm Dhawal Shukla 👋
-
 <p align="center">
-  <!-- If this gif ever breaks, download it and host locally at assets/wave.gif,
-       then replace the src below with: assets/wave.gif -->
-  <img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="150"/>
+  <img src="assets/profile-banner.svg" alt="Dhawal Shukla — backend engineer building systems and developer tools" width="100%" />
 </p>
 
 <p align="center">
-<b>🦢 Backend Engineer • Developer Tools • Network Security • TheWittySwan</b>
+  <img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="110" alt="Waving hello" />
 </p>
 
 <p align="center">
-Building systems, not just applications.
+  <a href="https://thewittyswan.space">Website</a> ·
+  <a href="https://www.linkedin.com/in/dhawalshukl">LinkedIn</a> ·
+  <a href="https://leetcode.com/u/dhawalshankar">LeetCode</a> ·
+  <a href="mailto:dhawalmannu@gmail.com">Email</a>
 </p>
 
-<p align="center">
-<a href="https://thewittyswan.space"><img src="https://img.shields.io/badge/TheWittySwan-Website-black?style=for-the-badge&logo=vercel"></a>
-<a href="https://github.com/DhawalShankar"><img src="https://img.shields.io/github/followers/DhawalShankar?style=for-the-badge&logo=github"></a>
-<a href="https://www.linkedin.com/in/dhawalshukl"><img src="https://img.shields.io/badge/LinkedIn-Dhawal-0A66C2?style=for-the-badge&logo=linkedin"></a>
-<a href="https://leetcode.com/u/dhawalshankar"><img src="https://img.shields.io/badge/LeetCode-1617-orange?style=for-the-badge&logo=leetcode"></a>
-<a href="https://pypi.org/project/churn-cli/"><img src="https://img.shields.io/pypi/v/churn-cli?style=for-the-badge&logo=pypi"></a>
-</p>
+## I build software for real workflows
 
----
+I’m Dhawal, a backend software engineer and B.Tech student at JIIT, Noida. I work mostly with Go, Node.js, and Python, building APIs, real-time products, developer tools, and the infrastructure around them.
 
-# 🦢 About
+I’m especially interested in the details that make software dependable: clear service boundaries, useful observability, careful access control, and safe execution environments.
 
-I'm a backend engineer who enjoys building developer tools, backend systems, AI workflows and self-hosted infrastructure.
+## Selected work
 
-Outside software you'll usually find me writing about:
+### [GoLab](https://github.com/DhawalShankar/golab) — a sandboxed Go playground
 
-- 🛡️ Network Security
-- ⚙️ Backend Engineering
-- 📚 Literature
-- 🤖 AI Engineering
+A browser-based editor and runner used by 60+ learners in the GolangForAll community. Each compile and execution runs in isolated Docker containers with networking disabled, non-root users, resource limits, and read-only filesystems.
 
-Everything lives at **https://thewittyswan.space**
+`Go` `Docker` `Next.js` `Monaco` `AWS EC2`
 
----
+### [VartaLang](https://github.com/DhawalShankar/vartalang) — language exchange and learning
 
-# 🎮 Dev Stat Card
+Built matching and real-time chat services, Indic-language translation and speech features, and an LMS with SSO, course enrollment, progress tracking, and Razorpay payments. The platform has reached 60+ sign-ups and 500+ visitors, and was selected for the Sarvam Startup Program.
 
-<!--
-  SETUP: this SVG is a static file, so it must live in the repo to be
-  referenced by a raw.githubusercontent.com link (same idea as the snake).
-  1. Add assets/rpg-card.svg (provided) to the DhawalShankar/DhawalShankar repo
-  2. Push to main
-  3. The image below will then render — edit the numbers/bars in the SVG
-     directly whenever you want to "level up"
--->
+`Node.js` `Express` `Socket.IO` `MongoDB` `PostgreSQL` `Sarvam AI`
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/DhawalShankar/DhawalShankar/main/assets/rpg-card.svg" width="700"/>
-</p>
+### [GolangForAll](https://github.com/DhawalShankar/golang4all) — learning Go together
 
----
+I founded this learning community and built its platform for articles, learning resources, build logs, and meetups. The community has 80+ members, and the learning platform serves 200+ users.
 
-# 🚀 Currently Building
+`Go` `Docusaurus` `PostgreSQL` `Cloudinary`
 
-- 🦢 TheWittySwan
-- 📦 Churn
-- ⚡ Golang For All
-- 🖥️ TheWittySwan Terminal
-- 🔐 Security Labs
+### [Vritukul](https://github.com/DhawalShankar/vritukul-backend) — school records, made searchable
 
----
+An AI-assisted records service for digitizing handwritten registers and finding student records with fuzzy search. Built alongside a school operations portal and its backend services.
 
-# ⭐ Featured Projects
+`Python` `FastAPI` `Gemini` `RapidFuzz` `PostgreSQL`
 
-| Project | Description | GitHub | Live |
-|---|---|---|---|
-| 🦢 **TheWittySwan** | Personal knowledge system — Jekyll + Decap CMS with a Go-powered interactive terminal | [Repo](https://github.com/DhawalShankar/thewittyswan) | [thewittyswan.space](https://thewittyswan.space) |
-| 📦 **Churn** | AI developer CLI — interview, README, PRD & architecture generation, repo health checks | [Repo](https://github.com/DhawalShankar/project-churn) | [PyPI](https://pypi.org/project/churn-cli/) |
-| 💻 **TheWittySwan Terminal** | Interactive browser terminal built with Go + xterm.js, self-hosted on a GCP e2-micro VM | [Repo](https://github.com/DhawalShankar/thewittyswan-terminal) | [Terminal](https://thewittyswan.space/terminal) |
-| 🌍 **VartaLang** | Real-time language exchange platform | [Repo](https://github.com/DhawalShankar/vartalang) | [vartalang.in](https://vartalang.in) |
-| 📚 **Cosmo India Prakashan** | Publishing platform with AI inventory and Razorpay integration | [Repo](https://github.com/DhawalShankar/cosmo-india) | [cosmoindiaprakashan.in](https://cosmoindiaprakashan.in) |
+### [Cosmo India Prakashan](https://github.com/DhawalShankar/cosmo-india) — publishing storefront and operations
 
----
+Built a live storefront and the supporting inventory and order workflows, including Razorpay payment verification. The storefront has received 400+ visits.
 
-# 🛠️ Tech Stack
+`React` `Node.js` `MongoDB` `PostgreSQL` `Razorpay`
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=java,go,python,js,ts,nodejs,express,fastapi,flask,mongodb,postgres,firebase,docker,git,github,linux,gcp,vercel,vscode"/>
-</p>
+### [TheWittySwan Terminal](https://github.com/DhawalShankar/thewittyswan-terminal) — a terminal-shaped portfolio
 
----
+A Go and xterm.js project with a virtual filesystem and rate-limited network diagnostics, deployed to a GCP virtual machine.
 
-# 🐍 Contribution Snake
+`Go` `xterm.js` `GCP` `GitHub Actions`
 
-<!--
-  SETUP REQUIRED (one-time, in the DhawalShankar/DhawalShankar repo):
-  1. Add .github/workflows/snake.yml (see the snake.yml file provided alongside this README)
-  2. Settings → Actions → General → Workflow permissions → "Read and write permissions"
-  3. Manually trigger the workflow once (Actions tab → "generate snake" → Run workflow)
-     This creates the `output` branch that the image below reads from.
--->
+## Experience
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/DhawalShankar/DhawalShankar/output/github-contribution-grid-snake.svg"/>
-</p>
+- **Backend Developer Intern · Codingo Forge** — Built Node.js/Express APIs for local-business storefront workflows, helped Dockerize services, and implemented role-based access with Clerk. *(Apr–Jun 2026)*
+- **IT Operations Support Intern · Cape Comorin Children School** — Shipped school operations tools across Next.js, Flask, and FastAPI services, including searchable digitized records and staff-reviewed notices. *(Jun–Jul 2026)*
 
----
+## A few milestones
 
-# ✍️ Latest Writing
+- Selected among the top 300 of 19,000+ applicants for Adobe’s Education Summit.
+- Ranked in the top 1,500 in Google BigCode 2026.
+- Reached Round 3 of the HirePro HackVega 2.0 finalist process.
 
-Visit **https://thewittyswan.space**
+## Tools I reach for
 
-Read about:
+**Languages:** Go · JavaScript · TypeScript · Python · Java · SQL<br>
+**Backend:** Node.js · Express · FastAPI · Flask · REST · WebSockets<br>
+**Data & infrastructure:** PostgreSQL · MongoDB · Docker · Linux · AWS · GCP<br>
+**Auth & integrations:** OAuth 2.0 · JWT · Firebase · Clerk · Razorpay · Cloudinary
 
-- Network Security
-- Backend Engineering
-- Literature
-- Developer Tools
+## Beyond the terminal
 
----
+I write about systems, network security, books, and quieter thoughts on [TheWittySwan](https://thewittyswan.space/home/). I also enjoy making technical learning feel welcoming through [GolangForAll](https://github.com/DhawalShankar/golang4all).
 
-# 📬 Connect
-
-- 🌐 https://thewittyswan.space
-- 🐙 https://github.com/DhawalShankar
-- 💼 https://linkedin.com/in/dhawalshukl
-- 📦 https://pypi.org/project/churn-cli/
-
----
-
-> *"Mukarrar hai, mukammal hogi woh nayaab manzil — fateh se faasle, ab hum rakh nahi sakte."*
+<details>
+  <summary>Contribution trail</summary>
+  <p align="center">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DhawalShankar/DhawalShankar/output/github-contribution-grid-snake-dark.svg" />
+      <img src="https://raw.githubusercontent.com/DhawalShankar/DhawalShankar/output/github-contribution-grid-snake.svg" alt="Animated view of my GitHub contribution graph" />
+    </picture>
+  </p>
+</details>
