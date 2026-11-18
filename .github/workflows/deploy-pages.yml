@@ -1,13 +1,9 @@
-name: Deploy Tic-Tac-Toe
+name: Deploy Pages
 
 on:
   push:
     branches:
       - main
-    paths:
-      - "games/tic-tac-toe/**"
-      - "swan.png"
-      - ".github/workflows/deploy-pages.yml"
   workflow_dispatch:
 
 permissions:
@@ -20,7 +16,7 @@ concurrency:
   cancel-in-progress: true
 
 jobs:
-  deploy:
+  build-and-deploy:
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
@@ -28,14 +24,32 @@ jobs:
     steps:
       - name: Check out repository
         uses: actions/checkout@v4
+
+      - name: Setup Ruby for Jekyll
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: '3.1'
+
+      - name: Build README with Jekyll
+        run: |
+          gem install github-pages
+          mkdir -p _site
+          jekyll build --destination _site
+
+      - name: Hide default repo title & add Tic-Tac-Toe
+        run: |
+          sed -i 's|</head>|<style>header, .container-lg > h1:first-child { display: none !important; }</style></head>|g' _site/index.html
+          cp -r games/tic-tac-toe _site/tic-tac-toe
+          cp swan.png _site/tic-tac-toe/swan.png
+
       - name: Configure GitHub Pages
         uses: actions/configure-pages@v5
-      - name: Add the profile swan to the game
-        run: cp swan.png games/tic-tac-toe/swan.png
-      - name: Upload game site
+
+      - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: games
-      - name: Deploy game site
+          path: _site
+
+      - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
