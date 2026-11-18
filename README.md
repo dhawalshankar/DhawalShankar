@@ -1,3 +1,5 @@
+<style>header, .container-lg > h1:first-child { display: none !important; }</style>
+
 <p align="center">
   <img src="assets/profile-banner.png" alt="Dhawal Shukla, founder of VartaLang and The Witty Swan" width="100%" />
 </p>
