@@ -16,7 +16,7 @@
 
 ## I build software for real workflows
 
-I’m Dhawal, a backend software engineer, B.Tech student at [JIIT](https://www.jiit.ac.in/), Noida, and an incoming [Teach For India Fellow](https://www.teachforindia.org/). I work mostly with Go, Node.js, and Python, building APIs, real-time products, developer tools, and the infrastructure around them.
+I’m Dhawal, a backend software engineer, B.Tech student at [JIIT](https://www.jiit.ac.in/), Noida, and an incoming [Teach For India](https://www.teachforindia.org/) Fellow. I work mostly with Go, Node.js, and Python, building APIs, real-time products, developer tools, and the infrastructure around them.
 
 I’m especially interested in the details that make software dependable: clear service boundaries, useful observability, careful access control, and safe execution environments.
 
