@@ -10,7 +10,7 @@
   <a href="https://thewittyswan.space">Website</a> ·
   <a href="https://www.linkedin.com/in/dhawalshukl">LinkedIn</a> ·
   <a href="https://leetcode.com/u/dhawalshankar">LeetCode</a> ·
-  <a href="https://dhawalshankar.github.io/DhawalShankar/tic-tac-toe/">Play Tic-Tac-Toe</a> ·
+  <a href="https://dhawalshankar.github.io/dhawalshankar/tic-tac-toe/">Play Tic-Tac-Toe</a> ·
   <a href="mailto:dhawalmannu@gmail.com">Email</a>
 </p>
 
@@ -22,37 +22,37 @@ I’m especially interested in the details that make software dependable: clear 
 
 ## Selected work
 
-### [GoLab](https://github.com/DhawalShankar/golab) — a sandboxed Go playground
+### [GoLab](https://github.com/dhawalshankar/golab) — a sandboxed Go playground
 
 A browser-based editor and runner used by 60+ learners in the GolangForAll community. Each compile and execution runs in isolated Docker containers with networking disabled, non-root users, resource limits, and read-only filesystems.
 
 `Go` `Docker` `Next.js` `Monaco` `AWS EC2`
 
-### [VartaLang](https://github.com/DhawalShankar/vartalang) — language exchange and learning
+### [VartaLang](https://github.com/dhawalshankar/vartalang) — language exchange and learning
 
 Built matching and real-time chat services, Indic-language translation and speech features, and an LMS with SSO, course enrollment, progress tracking, and Razorpay payments. The platform has reached 60+ sign-ups and 500+ visitors, and was selected for the Sarvam Startup Program.
 
 `Node.js` `Express` `Socket.IO` `MongoDB` `PostgreSQL` `Sarvam AI`
 
-### [GolangForAll](https://github.com/DhawalShankar/golang4all) — learning Go together
+### [GolangForAll](https://github.com/dhawalshankar/golang4all) — learning Go together
 
 I founded this learning community and built its platform for articles, learning resources, build logs, and meetups. The community has 80+ members, and the learning platform serves 200+ users.
 
 `Go` `Docusaurus` `PostgreSQL` `Cloudinary`
 
-### [Vritukul](https://github.com/DhawalShankar/vritukul-backend) — school records, made searchable
+### [Vritukul](https://github.com/dhawalshankar/vritukul-backend) — school records, made searchable
 
 An AI-assisted records service for digitizing handwritten registers and finding student records with fuzzy search. Built alongside a school operations portal and its backend services.
 
 `Python` `FastAPI` `Gemini` `RapidFuzz` `PostgreSQL`
 
-### [Cosmo India Prakashan](https://github.com/DhawalShankar/cosmo-india) — publishing storefront and operations
+### [Cosmo India Prakashan](https://github.com/dhawalshankar/cosmo-india) — publishing storefront and operations
 
 Built a live storefront and the supporting inventory and order workflows, including Razorpay payment verification. The storefront has received 400+ visits.
 
 `React` `Node.js` `MongoDB` `PostgreSQL` `Razorpay`
 
-### [TheWittySwan Terminal](https://github.com/DhawalShankar/thewittyswan-terminal) — a terminal-shaped portfolio
+### [TheWittySwan Terminal](https://github.com/dhawalshankar/thewittyswan-terminal) — a terminal-shaped portfolio
 
 A Go and xterm.js project with a virtual filesystem and rate-limited network diagnostics, deployed to a GCP virtual machine.
 
@@ -115,8 +115,8 @@ With the **GDG Cloud Noida** community, I’m co-organizing **DevVerse 2026**.
   <summary>Contribution trail</summary>
   <p align="center">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DhawalShankar/DhawalShankar/output/github-contribution-grid-snake-dark.svg" />
-      <img src="https://raw.githubusercontent.com/DhawalShankar/DhawalShankar/output/github-contribution-grid-snake.svg" alt="Animated view of my GitHub contribution graph" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dhawalshankar/dhawalshankar/output/github-contribution-grid-snake-dark.svg" />
+      <img src="https://raw.githubusercontent.com/dhawalshankar/dhawalshankar/output/github-contribution-grid-snake.svg" alt="Animated view of my GitHub contribution graph" />
     </picture>
   </p>
 </details>
