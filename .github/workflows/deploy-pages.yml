@@ -48,7 +48,7 @@ jobs:
       - name: Hide default repo title & add Tic-Tac-Toe
         run: |
           sudo chown -R $USER:$USER _site
-          sed -i 's|</head>|<style>header, .container-lg > h1:first-child { display: none !important; }</style></head>|g' _site/index.html
+          sed -i 's|</head>|<style>header, .markdown-body > h1:first-child { display: none !important; }</style></head>|g' _site/index.html
           rm -rf _site/tic-tac-toe
           cp -r games/tic-tac-toe _site/tic-tac-toe
           cp swan.png _site/tic-tac-toe/swan.png
